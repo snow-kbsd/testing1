@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <licensable>true</licensable>
+        <logo/>
+        <menu/>
+        <name>testinioeoe</name>
+        <private>false</private>
+        <scope>sn_testinioeoe</scope>
+        <short_description/>
+        <source>sn_testinioeoe</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-09 22:33:21</sys_created_on>
+        <sys_id>0b80e33ac3630200ca27ff9c02d3ae8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-11-09 22:33:21</sys_updated_on>
+        <template/>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0</version>
+    </sys_app>
+</record_update>
